@@ -86,6 +86,28 @@
 // 	for (let j = 1; j <=5; j++) {
 // 		console.log('hello from j', j);
 // 	}
-// }	
+// }
 
+
+//break example---------------
+// const x = [1, 2, 3, 4, 5, 6, 7, 8];
+
+// for (let i = 0; i < x.length; i++){
+
+// 	if (x[i] === 5){
+// 		break;
+// 	}
+// 	console.log(x[i]);
+// }
+
+//continue example --------------------------
+
+// const x = [1, 2, 3, 4, 5, 6, 7, 8];
+
+// for (let i  = 0; i < x.length;  i++)  {
+// 	if (x[i] ===  5) {
+// 		continue;
+// 	}
+// 	console.log(x[i]);
+// }
 
