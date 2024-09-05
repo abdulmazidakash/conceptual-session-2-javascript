@@ -44,9 +44,9 @@
 // console.log(typeof convert);
 // console.log(Array.isArray(convert));
 
-const flowers =  ['golap', 'sapla', 'joba', 'beli'];
-console.log(flowers.slice(1,3));
-console.log(flowers.shift());
-console.log(flowers);
-console.log(flowers.unshift('kodom', 'gada'));
-console.log(flowers);
+// const flowers =  ['golap', 'sapla', 'joba', 'beli'];
+// console.log(flowers.slice(1,3));
+// console.log(flowers.shift());
+// console.log(flowers);
+// console.log(flowers.unshift('kodom', 'gada'));
+// console.log(flowers);
